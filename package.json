@@ -1,0 +1,13 @@
+{
+  "name": "property-manager",
+  "version": "1.0.0",
+  "description": "Property manager app with React and GQL",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start-infra": "docker-compose up -d",
+    "stop-infra": "docker-compose down"
+  },
+  "author": "David de Vial <daviddevial@hotmail.co.uk>",
+  "license": "UNLICENSED"
+}
